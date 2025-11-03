@@ -1,2 +1,2 @@
 # Substrate-explicit
-这是一个能用但暂不成熟的Substrate-explicit模型！但目前也暂不打算进一步完善...
+这是一个能用但暂不成熟的Substrate-explicit模型！但目前也暂不打算进一步完善哈哈
